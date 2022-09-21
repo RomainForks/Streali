@@ -1,6 +1,8 @@
 <h1 align="center">Streali</h1>
 <h3 align="center">The best tool to make your stream prettier.</h3>
 
+<h1 align="center">The project is currently deprecated. We work on the new version <a href="https://github.com/Streali/App">Here</a></h1>
+
 <p align="center">
   <a href="https://twitch.tv/willtraore" target="_blank"><img src="https://img.shields.io/twitch/status/willtraore?style=social" /></a>
   <a href="https://twitter.com/strealiapp" target="_blank"><img src="https://img.shields.io/twitter/follow/strealiapp?style=social" /></a>
